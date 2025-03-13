@@ -1,4 +1,4 @@
-# José Mauricio Actividades de Servicio Social
+# José Mauricio - Actividades de Servicio Social
 
 ## Ingeniería en Sistemas Computacionales
 
