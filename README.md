@@ -39,27 +39,26 @@ Este curso le dio al estudiante una base sólida para usar **Git** y **GitHub**.
 **1. Python 🐍**  
 - **Nivel:** Avanzado ⭐⭐⭐⭐  
 - **Experiencia:** Desarrollo de aplicaciones, estructuras de datos, procesamiento de lenguaje natural  
-- **Proyectos:** [Breve descripción de proyectos]  
+- **Proyectos:** 
 
 **2. Java ☕**  
 - **Nivel:** Intermedio ⭐⭐⭐  
 - **Experiencia:** Desarrollo de aplicaciones de escritorio, desarrollo en Android, sistemas POS  
-- **Proyectos:** [Breve descripción de proyectos]  
-
+- **Proyectos:** 
 **3. SQL 🗄️**  
 - **Nivel:** Intermedio ⭐⭐⭐  
 - **Experiencia:** Manejo de bases de datos, consultas en SQL*Plus, uso en sistemas de gestión  
-- **Proyectos:** [Breve descripción de proyectos]  
+- **Proyectos:**  
 
 **4. JavaScript 🌐**  
 - **Nivel:** Intermedio ⭐⭐⭐  
 - **Experiencia:** Desarrollo web, React, interacción con APIs  
-- **Proyectos:** [Breve descripción de proyectos]  
+- **Proyectos:**  
 
 **5. C++ 🔵**  
 - **Nivel:** Básico ⭐⭐  
 - **Experiencia:** Programación estructurada, algoritmos y estructuras de datos  
-- **Proyectos:** [Breve descripción de proyectos]  
+- **Proyectos:** 
 
 ---
 
