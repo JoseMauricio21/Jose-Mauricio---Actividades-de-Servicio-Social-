@@ -1,6 +1,6 @@
-# Jose-Mauricio Actividades-de-Servicio-Social
+# Jose Mauricio Actividades de Servicio Social
 
-# José Mauricio Manjarrez Reyes 🧑‍💻
+
 
 ## Ingeniería en Sistemas Computacionales 🎓
 
