@@ -6,6 +6,8 @@
 
 # Curso de Git y GitHub desde Cero
 
+[![Video en YouTube](https://img.youtube.com/vi/mBYSUUnMt9M/0.jpg)](https://www.youtube.com/watch?v=mBYSUUnMt9M)
+
 ## Introducción
 
 En este curso, el estudiante aprendió sobre Git y GitHub, dos herramientas esenciales para trabajar con proyectos de software. Git es un sistema que ayuda a gestionar los cambios en el código de un proyecto, y GitHub es una plataforma en línea donde se pueden almacenar y compartir esos proyectos. El objetivo del curso fue enseñar desde lo más básico hasta cómo colaborar con otras personas en proyectos usando estas herramientas.
