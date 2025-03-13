@@ -2,7 +2,7 @@
 
 
 
-## Ingeniería en Sistemas Computacionales 🎓
+## Ingeniería en Sistemas Computacionales 
 
 ### Lenguajes de Programación 🚀
 
