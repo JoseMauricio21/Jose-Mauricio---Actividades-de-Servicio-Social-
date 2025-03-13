@@ -76,6 +76,7 @@ Este curso le dio al estudiante una base sólida para usar **Git** y **GitHub**.
 📌 Aprender **C# para desarrollo en Unity** 🎮  
 
 ---
-Curso visto 📚
+## Curso visto 📚
+
 [![Video en YouTube](https://img.youtube.com/vi/mBYSUUnMt9M/0.jpg)](https://www.youtube.com/watch?v=mBYSUUnMt9M)
 
