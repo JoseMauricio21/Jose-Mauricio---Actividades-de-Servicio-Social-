@@ -36,7 +36,7 @@ Lo que más le interesó al estudiante fue cómo Git ayuda a organizar proyectos
 
 Este curso le dio al estudiante una base sólida para usar Git y GitHub. Ahora puede organizar su propio trabajo, colaborar con otros en proyectos y compartir su código de manera ordenada. Estas herramientas le ayudarán a mejorar sus proyectos y a trabajar mejor en equipo. El estudiante está emocionado por usar todo lo aprendido en sus futuros proyectos.
 
-### Lenguajes de Programación 🚀
+### Informacion sobre mis Lenguajes de Programación 🚀
 
 **1. Python 🐍**  
 - **Nivel:** Avanzado ⭐⭐⭐⭐  
