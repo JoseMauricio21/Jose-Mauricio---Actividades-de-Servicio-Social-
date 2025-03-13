@@ -50,9 +50,3 @@
 ## Conclusión 💡
 Los lenguajes de programación que manejo me han permitido trabajar en distintos proyectos de software y desarrollo web, con el objetivo de seguir mejorando mis habilidades en el área.
 
----
-
-📫 **Contacto:**  
-📍 [Tu LinkedIn]  
-📧 [Tu correo electrónico]  
-💻 [Tu sitio web o portafolio]  
