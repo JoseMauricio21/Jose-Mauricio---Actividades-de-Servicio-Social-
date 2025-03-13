@@ -45,8 +45,3 @@
 📌 Profundizar en **bases de datos avanzadas** 🗃️  
 📌 Aprender **C# para desarrollo en Unity** 🎮  
 
----
-
-## Conclusión 💡
-Los lenguajes de programación que manejo me han permitido trabajar en distintos proyectos de software y desarrollo web, con el objetivo de seguir mejorando mis habilidades en el área.
-
