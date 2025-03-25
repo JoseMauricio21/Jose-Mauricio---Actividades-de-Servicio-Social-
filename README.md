@@ -266,6 +266,7 @@ Nota: Este curso me dio una base sólida para empezar a trabajar con **Node.js**
 - **Nivel:** Intermedio ⭐⭐⭐  
 - **Experiencia:** Desarrollo de aplicaciones de escritorio, desarrollo en Android, sistemas POS  
 - **Proyectos:** 
+
 **3. SQL 🗄️**  
 - **Nivel:** Intermedio ⭐⭐⭐  
 - **Experiencia:** Manejo de bases de datos, consultas en SQL*Plus, uso en sistemas de gestión  
