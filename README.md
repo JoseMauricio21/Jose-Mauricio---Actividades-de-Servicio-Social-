@@ -1,4 +1,5 @@
-# José Mauricio - Actividades de Servicio Social
+# **José Mauricio**  
+## **Actividades de Servicio Social**
 
 <p align="center">
   <a href="https://tesjo.edomex.gob.mx/" target="_blank">
