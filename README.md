@@ -136,7 +136,7 @@ Se recomienda tener conocimientos básicos de HTML, CSS y JavaScript para aprove
 
 Puedes acceder al curso completo en YouTube:
 
-[https://www.youtube.com/watch?v=BA328RQa08M](https://www.youtube.com/watch?v=BA328RQa08M)
+[![Video en YouTube](https://www.youtube.com/watch?v=BA328RQa08M)](https://www.youtube.com/watch?v=BA328RQa08M)
 
 ---
 
