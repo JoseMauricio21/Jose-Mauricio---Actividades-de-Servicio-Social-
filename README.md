@@ -191,10 +191,6 @@ Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo q
 [![Node.js Course from Scratch: Introduction and First Steps](https://img.youtube.com/vi/yB4n_K7dZV8/0.jpg)](https://youtu.be/yB4n_K7dZV8?list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Gif" style="width: 300px; height: 300px;">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/JoseMauricio21/Jose-Mauricio---Actividades-de-Servicio-Social-/refs/heads/main/cropped_image.png" alt="Avatar" style="border-radius: 80%; width: 200px; height: 200px;">
 </p>
 
