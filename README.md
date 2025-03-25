@@ -265,6 +265,10 @@ Nota: Este curso me dio una base sólida para empezar a trabajar con **Node.js**
 - **Bash 🖥️** → Uso en Linux, automatización de tareas  
 - **Arduino 🤖** → Programación de microcontroladores  
 
+---
+## Proyectos 
+
+[![OpenCore](https://raw.githubusercontent.com/JoseMauricio21/OpenCorePkg/master/Docs/Logos/OpenCore_with_text_Small.png)](https://github.com/acidanthera/OpenCorePkg)
 
 
 ## Objetivos de Aprendizaje 📚
