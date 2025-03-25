@@ -48,6 +48,7 @@ Este curso le dio al estudiante una base sólida para usar **Git** y **GitHub**.
 [![Video en YouTube](https://img.youtube.com/vi/mBYSUUnMt9M/0.jpg)](https://www.youtube.com/watch?v=mBYSUUnMt9M)
 
 ---
+![2.- Práctica de HTML, CSS y JavaScript - Creación de 3 Proyectos](https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png)
 
 # 🚀 2.- Práctica de HTML, CSS y JavaScript - Creación de 3 Proyectos
 
