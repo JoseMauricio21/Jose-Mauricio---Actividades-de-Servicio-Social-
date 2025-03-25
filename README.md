@@ -51,8 +51,9 @@ Este curso le dio al estudiante una base sólida para usar **Git** y **GitHub**.
 ---
 
 <p align="center">
-  <img src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" alt="Práctica de HTML, CSS y JavaScript - Creación de 3 Proyectos" />
+  <img src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" alt="Práctica de HTML, CSS y JavaScript - Creación de 3 Proyectos" style="width: 65%;" />
 </p>
+
 
 # 🚀 2.- Práctica de HTML, CSS y JavaScript - Creación de 3 Proyectos
 
@@ -167,7 +168,7 @@ Este proyecto se distribuye bajo una **Licencia de Software Libre**, lo que sign
 ---
 
 <p align="center">
-  <img src="https://www.curotec.com/wp-content/uploads/2023/09/curotec-nodejs.png" alt="Descripción de la imagen" style="width: 80%;" />
+  <img src="https://www.curotec.com/wp-content/uploads/2023/09/curotec-nodejs.png" alt="Node.js Course from Scratch: Introduction and First Steps" style="width: 65%;" />
 </p>
 
 
