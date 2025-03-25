@@ -132,11 +132,7 @@ A continuación, se detallan los proyectos desarrollados en este curso:
 
 Se recomienda tener conocimientos básicos de HTML, CSS y JavaScript para aprovechar al máximo este curso.
 
-## 🔗 Enlace al Curso
-
-Puedes acceder al curso completo en YouTube:
-
-## 📚 Curso visto  
+## 📚 Curso visto  - Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico
 [![Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico](https://img.youtube.com/vi/BA328RQa08M/0.jpg)](https://www.youtube.com/watch?v=BA328RQa08M)  
 
 
