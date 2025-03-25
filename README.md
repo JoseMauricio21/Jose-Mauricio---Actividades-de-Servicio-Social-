@@ -50,7 +50,7 @@ Este curso le dio al estudiante una base sólida para usar **Git** y **GitHub**.
 ---
 
 <p align="center">
-  <img src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" alt="Descripción de la imagen" />
+  <img src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" alt="Práctica de HTML, CSS y JavaScript - Creación de 3 Proyectos" />
 </p>
 
 # 🚀 2.- Práctica de HTML, CSS y JavaScript - Creación de 3 Proyectos
@@ -100,7 +100,7 @@ Este proyecto se distribuye bajo la licencia MIT, permitiendo su uso, modificaci
 
 ---
 <p align="center">
-  <img src="https://img.europapress.es/fotoweb/fotonoticia_20210430172721_1200.jpg" alt="Descripción de la imagen" style="width: 90%;"/>
+  <img src="https://img.europapress.es/fotoweb/fotonoticia_20210430172721_1200.jpg" alt="Descripción de la imagen" style="width: 65%;"/>
 </p>
 
 ## 💻  2.- Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico
