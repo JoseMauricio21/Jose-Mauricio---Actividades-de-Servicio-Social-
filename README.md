@@ -1,9 +1,13 @@
 # José Mauricio - Actividades de Servicio Social
-<p align="center">
-  <img src="https://lh6.googleusercontent.com/proxy/CMxHFpc12SKiERPNxZ9zDiokURoOnEzS14svPgD29jQxHsf-N0jWE3hYqh1K53YokiiF0w66N1I5ebfvWHlbqx4btailDnj8qtUaug" width="45%" />
-  <img src="https://tesjo.edomex.gob.mx/sites/tesjo.edomex.gob.mx/files/images/Oferta%20Educativa/Licenciaturas/4.png" width="15%" />
-</p>
 
+<p align="center">
+  <a href="https://tesjo.edomex.gob.mx/" target="_blank">
+    <img src="https://lh6.googleusercontent.com/proxy/CMxHFpc12SKiERPNxZ9zDiokURoOnEzS14svPgD29jQxHsf-N0jWE3hYqh1K53YokiiF0w66N1I5ebfvWHlbqx4btailDnj8qtUaug" width="45%" />
+  </a>
+  <a href="https://tesjo.edomex.gob.mx/" target="_blank">
+    <img src="https://tesjo.edomex.gob.mx/sites/tesjo.edomex.gob.mx/files/images/Oferta%20Educativa/Licenciaturas/4.png" width="15%" />
+  </a>
+</p>
 
 ## Ingeniería en Sistemas Computacionales
 
