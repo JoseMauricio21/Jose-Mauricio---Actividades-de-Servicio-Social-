@@ -99,6 +99,9 @@ Apliqué los conocimientos adquiridos a proyectos personales, lo que me ayudó a
 Este proyecto se distribuye bajo la licencia MIT, permitiendo su uso, modificación y distribución de manera libre y abierta.
 
 ---
+<p align="center">
+  <img src="https://img.europapress.es/fotoweb/fotonoticia_20210430172721_1200.jpg" alt="Descripción de la imagen" style="width: 90%;"/>
+</p>
 
 ## 💻  2.- Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico
 
