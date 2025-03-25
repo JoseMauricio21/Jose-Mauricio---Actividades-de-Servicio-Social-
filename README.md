@@ -148,6 +148,42 @@ Este proyecto se distribuye bajo una **Licencia de Software Libre**, lo que sign
 
 
 ---
+
+![Curotec Node.js](https://www.curotec.com/wp-content/uploads/2023/09/curotec-nodejs.png)
+
+# Node.js Course from Scratch: Introduction and First Steps 🚀
+
+## 📚 **Curso Realizado:**
+En este curso, aprendí todo lo que necesito saber sobre **Node.js**. Durante la primera parte del curso, entendí cómo funciona **Node.js**, cómo interactúa con el motor **V8**, y exploré su sistema de módulos desde cero. También realicé ejercicios interactivos y profundicé en conceptos como la programación basada en eventos. ⚙️💡
+
+### **Temas cubiertos en este curso:**
+- **¿Qué es Node.js y V8?** 🌍💻 - Comprendí cómo Node.js es una plataforma que utiliza el motor V8 de JavaScript para ejecutar código en el servidor.
+- **Programación basada en eventos** 🔄 - Aprendí el modelo de programación basado en eventos de Node.js, lo que es esencial para manejar tareas asincrónicas.
+- **Historia de Node.js** 📜 - Analicé la evolución y los antecedentes de Node.js para comprender mejor su propósito y uso en el desarrollo moderno.
+- **Instalación y primeros pasos** 🛠️ - Instalé Node.js en mi máquina, aprendí a ejecutar mis primeros archivos y entendí el concepto de "Hello World".
+- **Variables globales y objetos** 🌐 - Estudié cómo funcionan los objetos globales en Node.js, como `globalThis` y `process`.
+- **Sistema de módulos en Node.js** 📦 - Exploré cómo organizar el código utilizando módulos en **CommonJS** y **ES Modules**.
+- **Síncrono vs Asíncrono** ⏳ - Entendí la diferencia entre código síncrono y asíncrono y cómo usar **callbacks**, **promesas** y **async/await** en Node.js.
+- **Uso de NPM** 📦 - Aprendí a instalar, actualizar y desinstalar dependencias utilizando **NPM**, y a gestionar el archivo `package.json`.
+- **Creación de servidores** 🌐 - Desarrollé aplicaciones de servidor básicas usando Node.js, manejando archivos, directorios y otros elementos del sistema.
+- **Variables de entorno y .env** 🌱 - Comprendí cómo gestionar configuraciones sensibles en el desarrollo mediante el uso de variables de entorno.
+
+### **Tecnologías Utilizadas:**
+- **Node.js**: Plataforma de desarrollo para crear aplicaciones web del lado del servidor. 🖥️
+- **NPM**: Gestor de paquetes para instalar dependencias. 📦
+- **PicoColors**: Dependencia instalada para mejorar la visualización de la consola. 🌈
+
+### **Objetivos Aprendidos:**
+1. **Instalación y configuración** de Node.js y NPM. ⚙️
+2. Comprensión de cómo funciona **Node.js** y cómo gestionar módulos y dependencias. 📚
+3. Creación de aplicaciones básicas utilizando la **API nativa de Node.js**. 💻
+4. Aplicación de conceptos de **asincronía** con **callbacks**, **promesas** y **async/await**. 🔄
+5. Desarrollo de **servidores simples** en Node.js y manejo de **entornos de desarrollo**. 🌍
+
+---
+
+Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo que me ayudará en el desarrollo de aplicaciones del lado del servidor y la creación de servidores web robustos. 🚀
+
 ---
 
 ### Informacion sobre mis Lenguajes de Programación 🚀
