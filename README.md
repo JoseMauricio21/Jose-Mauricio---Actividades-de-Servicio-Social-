@@ -191,6 +191,10 @@ Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo q
 [![Node.js Course from Scratch: Introduction and First Steps](https://img.youtube.com/vi/yB4n_K7dZV8/0.jpg)](https://youtu.be/yB4n_K7dZV8?list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7)
 
 ---
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/144899115?v=4" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
+</p>
+
 ### Acerca de Mi... ### 
 ### Informacion sobre mis Lenguajes de Programación 🚀
 
@@ -238,3 +242,4 @@ Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo q
   - Node.js 🌱
   - React ⚛️
   - Arduino 🤖
+    
