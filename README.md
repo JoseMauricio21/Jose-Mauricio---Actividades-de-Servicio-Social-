@@ -1,4 +1,4 @@
-# **José Mauricio**  
+# **José Mauricio Manjarrez Reyes**  
 ## **Actividades de Servicio Social**
 
 <p align="center">
