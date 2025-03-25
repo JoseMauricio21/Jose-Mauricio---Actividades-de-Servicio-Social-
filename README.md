@@ -182,14 +182,15 @@ En este curso, aprendí todo lo que necesito saber sobre **Node.js**. Durante la
 4. Aplicación de conceptos de **asincronía** con **callbacks**, **promesas** y **async/await**. 🔄
 5. Desarrollo de **servidores simples** en Node.js y manejo de **entornos de desarrollo**. 🌍
 
----
-
-Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo que me ayudará en el desarrollo de aplicaciones del lado del servidor y la creación de servidores web robustos. 🚀
-
----
 
 ## 📚 Curso visto - Node.js Course from Scratch: Introduction and First Steps
 [![Node.js Course from Scratch: Introduction and First Steps](https://img.youtube.com/vi/yB4n_K7dZV8/0.jpg)](https://youtu.be/yB4n_K7dZV8?list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7)
+
+---
+
+Nota: Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo que me ayudará en el desarrollo de aplicaciones del lado del servidor y la creación de servidores web robustos. 🚀
+
+---
 
 ### ✅ Acerca de Mi... ### 
 
