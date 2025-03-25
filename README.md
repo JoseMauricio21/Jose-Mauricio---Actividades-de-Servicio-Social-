@@ -87,6 +87,72 @@ Este proyecto se distribuye bajo la licencia MIT, permitiendo su uso, modificaci
 
 ---
 
+## 💻 Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico
+
+A continuación, se detallan los proyectos desarrollados en este curso:
+
+---
+
+1. **🐍 Juego de la Serpiente (Snake Game)**
+
+   - **Descripción**: Implementación del clásico juego donde controlas una serpiente que debe comer para crecer sin chocar contra las paredes ni contra sí misma.
+   - **Objetivo**: Practicar el manejo del canvas y la lógica de juegos en JavaScript.
+
+2. **⏱️ Cronómetro (Stopwatch)**
+
+   - **Descripción**: Desarrollo de un cronómetro funcional con funciones de inicio, pausa y reinicio, mostrando el tiempo transcurrido en minutos y segundos.
+   - **Objetivo**: Aprender a manipular el tiempo y eventos en JavaScript.
+
+3. **🔐 Cifrador César (Caesar Cipher)**
+
+   - **Descripción**: Creación de una herramienta que cifra y descifra mensajes utilizando el algoritmo de cifrado César.
+   - **Objetivo**: Entender los conceptos básicos de criptografía y manipulación de strings en JavaScript.
+
+4. **🖩 Calculadora (Calculator)**
+
+   - **Descripción**: Desarrollo de una calculadora básica que realiza operaciones aritméticas como suma, resta, multiplicación y división.
+   - **Objetivo**: Practicar la manipulación del DOM y eventos en JavaScript.
+
+5. **📝 Lista de Tareas (To-Do List)**
+
+   - **Descripción**: Construcción de una aplicación que permite agregar, marcar como completadas y eliminar tareas de una lista.
+   - **Objetivo**: Mejorar habilidades en la manipulación del DOM y almacenamiento local.
+
+6. **🎨 Generador de Paletas de Colores (Color Palette Generator)**
+
+   - **Descripción**: Creación de una herramienta que genera paletas de colores aleatorias para inspirar diseños.
+   - **Objetivo**: Practicar el uso de funciones aleatorias y manipulación del DOM.
+
+7. **🎯 Juego del Ahorcado (Hangman Game)**
+
+   - **Descripción**: Implementación del clásico juego del ahorcado donde debes adivinar una palabra letra por letra.
+   - **Objetivo**: Desarrollar lógica de juego y manejo de eventos en JavaScript.
+  
+## 📋 Requisitos Previos
+
+Se recomienda tener conocimientos básicos de HTML, CSS y JavaScript para aprovechar al máximo este curso.
+
+## 🔗 Enlace al Curso
+
+Puedes acceder al curso completo en YouTube:
+
+[https://www.youtube.com/watch?v=BA328RQa08M](https://www.youtube.com/watch?v=BA328RQa08M)
+
+---
+
+## 👨‍🏫 Autor
+
+Este curso fue creado por **[freeCodeCamp Español]**, un desarrolladores web con experiencia en la enseñanza de tecnologías.
+
+## 📄 Licencia
+
+Este proyecto se distribuye bajo una **Licencia de Software Libre**, lo que significa que puedes usar, copiar, modificar y distribuir el software sin restricciones, siempre y cuando se cumplan ciertas condiciones. :contentReference[oaicite:0]{index=0}
+
+Para más detalles sobre las licencias de software libre, puedes consultar la siguiente fuente...
+
+---
+---
+
 ### Informacion sobre mis Lenguajes de Programación 🚀
 
 **1. Python 🐍**  
