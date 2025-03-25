@@ -148,9 +148,8 @@ Este curso fue creado por **[freeCodeCamp Español]**, un desarrolladores web co
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo una **Licencia de Software Libre**, lo que significa que puedes usar, copiar, modificar y distribuir el software sin restricciones, siempre y cuando se cumplan ciertas condiciones. :contentReference[oaicite:0]{index=0}
+Este proyecto se distribuye bajo una **Licencia de Software Libre**, lo que significa que puedes usar, copiar, modificar y distribuir el software sin restricciones, siempre y cuando se cumplan ciertas condiciones. 
 
-Para más detalles sobre las licencias de software libre, puedes consultar la siguiente fuente...
 
 ---
 ---
