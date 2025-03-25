@@ -192,8 +192,15 @@ Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo q
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JoseMauricio21/Jose-Mauricio---Actividades-de-Servicio-Social-/refs/heads/main/cropped_image.png" alt="Avatar" style="border-radius: 80%; width: 150px; height: 150px;">
+  <img src="https://raw.githubusercontent.com/JoseMauricio21/Jose-Mauricio---Actividades-de-Servicio-Social-/refs/heads/main/cropped_image.png" alt="Avatar" style="border-radius: 80%; width: 200px; height: 200px;">
 </p>
+
+<h2 align="center">José Mauricio Manjarrez Reyes</h2>
+
+<p align="center">
+  Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jocotitlán. Me apasiona la programación, la música y la tecnología. Actualmente estoy desarrollando proyectos en diversas áreas, incluyendo desarrollo web, videojuegos, y herramientas de software.
+</p>
+
 
 ### Acerca de Mi... ### 
 ### Informacion sobre mis Lenguajes de Programación 🚀
