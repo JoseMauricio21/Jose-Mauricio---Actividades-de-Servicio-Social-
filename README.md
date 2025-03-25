@@ -165,8 +165,10 @@ Este proyecto se distribuye bajo una **Licencia de Software Libre**, lo que sign
 
 ---
 
+<p align="center">
+  <img src="https://www.curotec.com/wp-content/uploads/2023/09/curotec-nodejs.png" alt="Descripción de la imagen" style="width: 80%;" />
+</p>
 
-![Curotec Node.js](https://www.curotec.com/wp-content/uploads/2023/09/curotec-nodejs.png)
 
 # 3.- Node.js Course from Scratch: Introduction and First Steps 🚀
 
