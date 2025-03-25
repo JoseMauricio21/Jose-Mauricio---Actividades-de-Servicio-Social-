@@ -192,7 +192,7 @@ Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo q
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JoseMauricio21/Jose-Mauricio---Actividades-de-Servicio-Social-/refs/heads/main/cropped_image.png" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://raw.githubusercontent.com/JoseMauricio21/Jose-Mauricio---Actividades-de-Servicio-Social-/refs/heads/main/cropped_image.png" alt="Avatar" style="border-radius: 80%; width: 150px; height: 150px;">
 </p>
 
 ### Acerca de Mi... ### 
