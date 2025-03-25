@@ -1,5 +1,5 @@
 # **José Mauricio Manjarrez Reyes**  
-## **Actividades de Servicio Social**
+## **Actividades de Servicio Social - 2025 **
 
 <p align="center">
   <a href="https://tesjo.edomex.gob.mx/" target="_blank">
