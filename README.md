@@ -1,7 +1,10 @@
 # José Mauricio - Actividades de Servicio Social
+<p align="center">
+  <img src="https://lh6.googleusercontent.com/proxy/CMxHFpc12SKiERPNxZ9zDiokURoOnEzS14svPgD29jQxHsf-N0jWE3hYqh1K53YokiiF0w66N1I5ebfvWHlbqx4btailDnj8qtUaug" width="45%">
+</p>
+
 
 ## Ingeniería en Sistemas Computacionales
-
 
 #  1.- Curso de Git y GitHub desde Cero ✅
 
