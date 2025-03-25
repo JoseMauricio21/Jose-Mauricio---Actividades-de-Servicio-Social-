@@ -87,7 +87,7 @@ Este proyecto se distribuye bajo la licencia MIT, permitiendo su uso, modificaci
 
 ---
 
-## 💻 Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico
+## 💻  2.- Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico
 
 A continuación, se detallan los proyectos desarrollados en este curso:
 
