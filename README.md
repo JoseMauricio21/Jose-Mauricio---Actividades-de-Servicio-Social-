@@ -149,9 +149,10 @@ Este proyecto se distribuye bajo una **Licencia de Software Libre**, lo que sign
 
 ---
 
+
 ![Curotec Node.js](https://www.curotec.com/wp-content/uploads/2023/09/curotec-nodejs.png)
 
-# Node.js Course from Scratch: Introduction and First Steps 🚀
+# 3.- Node.js Course from Scratch: Introduction and First Steps 🚀
 
 ## 📚 **Curso Realizado:**
 En este curso, aprendí todo lo que necesito saber sobre **Node.js**. Durante la primera parte del curso, entendí cómo funciona **Node.js**, cómo interactúa con el motor **V8**, y exploré su sistema de módulos desde cero. También realicé ejercicios interactivos y profundicé en conceptos como la programación basada en eventos. ⚙️💡
@@ -186,10 +187,15 @@ Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo q
 
 ---
 
+## 📚 Curso visto - Node.js Course from Scratch: Introduction and First Steps
+[![Node.js Course from Scratch: Introduction and First Steps](https://img.youtube.com/vi/yB4n_K7dZV8/0.jpg)](https://youtu.be/yB4n_K7dZV8?list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7)
+
+---
+### Acerca de Mi... ### 
 ### Informacion sobre mis Lenguajes de Programación 🚀
 
 **1. Python 🐍**  
-- **Nivel:** Avanzado ⭐⭐⭐⭐  
+- **Nivel:** Avanzado ⭐⭐⭐⭐⭐
 - **Experiencia:** Desarrollo de aplicaciones, estructuras de datos, procesamiento de lenguaje natural  
 - **Proyectos:** 
 
@@ -226,4 +232,9 @@ Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo q
 📌 Profundizar en **bases de datos avanzadas** 🗃️  
 📌 Aprender **C# para desarrollo en Unity** 🎮  
 
-
+**Herramientas Favoritas**:
+  - Git & GitHub 🛠️
+  - HTML & CSS 🎨
+  - Node.js 🌱
+  - React ⚛️
+  - Arduino 🤖
