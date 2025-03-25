@@ -136,7 +136,9 @@ Se recomienda tener conocimientos básicos de HTML, CSS y JavaScript para aprove
 
 Puedes acceder al curso completo en YouTube:
 
-[![Video en YouTube](https://www.youtube.com/watch?v=BA328RQa08M)](https://www.youtube.com/watch?v=BA328RQa08M)
+## 📚 Curso visto  
+[![Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico](https://img.youtube.com/vi/BA328RQa08M/0.jpg)](https://www.youtube.com/watch?v=BA328RQa08M)  
+
 
 ---
 
