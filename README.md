@@ -271,6 +271,8 @@ Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo q
 📌 Profundizar en **bases de datos avanzadas** 🗃️  
 📌 Aprender **C# para desarrollo en Unity** 🎮  
 
+![description](https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif)
+
 **Herramientas Favoritas**:
   - Git & GitHub 🛠️
   - HTML & CSS 🎨
