@@ -2,7 +2,7 @@
 
 ## Ingeniería en Sistemas Computacionales
 
-# Curso de Git y GitHub desde Cero ✅
+#  1.- Curso de Git y GitHub desde Cero ✅
 
 ## Introducción
 
