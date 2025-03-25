@@ -40,7 +40,7 @@ Este curso le dio al estudiante una base sólida para usar **Git** y **GitHub**.
 
 ---
 
-# 🚀 ** 2.- Práctica de HTML, CSS y JavaScript - Creación de 3 Proyectos**
+# 🚀 2.- Práctica de HTML, CSS y JavaScript - Creación de 3 Proyectos
 
 Este repositorio contiene los recursos y el código necesario que **José Mauricio Manjarrez Reyes** ha utilizado para practicar y aprender **HTML**, **CSS** y **JavaScript** mediante la creación de tres proyectos fundamentales. Los proyectos están basados en el curso de **Jordan Alexander Cruz García**, quien es un experto en desarrollo web y publicó este curso en el canal de **freeCodeCamp en Español**.
 
