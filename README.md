@@ -13,7 +13,7 @@
 ## Ingeniería en Sistemas Computacionales
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/GFL4JsjXUAAjs3U?format=jpg&name=large" alt="Descripción de la imagen" style="width: 70%;" />
+  <img src="https://pbs.twimg.com/media/GFL4JsjXUAAjs3U?format=jpg&name=large" alt="Descripción de la imagen" style="width: 80%;" />
 </p>
 
 #  1.- Curso de Git y GitHub desde Cero ✅
