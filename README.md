@@ -200,6 +200,9 @@ Este curso me dio una base sólida para empezar a trabajar con **Node.js**, lo q
   Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jocotitlán. Me apasiona la programación, la música y la tecnología. Actualmente estoy desarrollando proyectos en diversas áreas, incluyendo desarrollo web, videojuegos, y herramientas de software.
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoseMauricio21/Jose-Mauricio---Actividades-de-Servicio-Social-/refs/heads/main/banner.png" alt="Banner" style="width: 100%; max-width: 1200px;">
+</p>
 
 
 ### Acerca de Mi... ### 
