@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page CSS Grid</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header class="hero">
+        <nav class="nav container">
+            <h2 class="nav__logo">Jose Mauricio Manjarrez.</h2>
+
+            <ul class="nav__list">
+                <li class="nav__item"><a href="#" class="nav__link">Comienza</a></li>
+                <li class="nav__item"><a href="#" class="nav__link">Acerca de Mi</a></li>
+                <li class="nav__item"><a href="#" class="nav__link">Contactame</a></li>
+            </ul>
+
+            <figure class="nav__menu">
+                <img src="images/menu.svg" class="nav__icon">
+            </figure>
+        </nav>
+
+        <section class="hero__main container">
+            <div class="hero__texts">
+                <h1 class="hero__title">Hola!, Mi nombre es Jose Mauricio </h1>
+                <p class="hero__subtitle">Steve Jobs fue un visionario, un genio del diseño y la tecnología que revolucionó el mundo con su creatividad y obsesión por la perfección. De carácter intenso y exigente, transformó Apple en una de las empresas más influyentes, apostando siempre por la simplicidad y la elegancia en cada producto. Su capacidad para prever lo que la gente quería antes de que lo supieran lo convirtió en una figura única en la historia de la innovación. Con su icónica vestimenta de cuello de tortuga negro, jeans y zapatillas New Balance, proyectaba una imagen sencilla pero poderosa. Apasionado por el diseño, la música y la tecnología, combinó arte e ingeniería para dar vida a productos como el iPhone, el iPod y la Mac, marcando un antes y un después en la era digital. Su legado sigue vivo, inspirando a generaciones a "pensar diferente".</p>
+                <a href="#" class="hero__cta">Listo</a>
+            </div>
+
+            <figure class="hero__picture">
+                <img src="images/illustration.png" class="hero__img">
+            </figure>
+        </section>
+
+        <div style="height: 150px; overflow: hidden;" class="hero__waves" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.99 C262.08,217.40 378.89,-120.09 500.00,49.99 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #fff;"></path></svg></div>
+    </header>
+
+    <section class="modal">
+        <div class="modal__container">
+            <img src="images/success.svg" class="modal__img">
+            <h2 class="modal__title">¡Bienvenido mi Blog!</h2>
+            <p class="modal__paragraph">Pudes encontarar relatos de personas muy famosas de la tecnologia y que cambiaron al mundo...</p>
+            <a href="#" class="modal__close">Cerrar este apartado</a>
+
+        </div>
+    </section>
+
+
+    <script src="js/modal.js"></script>
+
+</body>
+</html>
